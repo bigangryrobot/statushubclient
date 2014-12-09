@@ -1,0 +1,16 @@
+﻿{
+    "matchrules": [
+      {
+          "matchstring": "somestring",
+          "matchdown": "down",
+          "downstatustring": "degraded-performance",
+          "downincidenttypestring": "investigating",
+          "matchup": "up",
+          "upstatustring": "up",
+          "upincidenttypestring": "resolved",
+          "servicestring": "service string as seen on statushub.io",
+          "overridetitle" : "",
+          "overridebody" : ""
+      }
+    ]
+}
